@@ -176,7 +176,7 @@ void setup(){
         break;
         default:
         lcd.setCursor(0,0);   
-        lcd.print("GordoxAutomation");   
+        lcd.print("ZuneSmartHome");   
         lcd.setCursor(0,1);
         lcd.write(1);
         lcd.setCursor(1,1);
